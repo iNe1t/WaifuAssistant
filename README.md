@@ -1,2 +1,2 @@
-# ZeroTwoAssistant
+# WaifuAssistant
 darling :D
