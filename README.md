@@ -1,2 +1,3 @@
 # WaifuAssistant
       21.02.2021 : searching the information...
+      28.02.2021 : first attempts to made this piece of cake to speak(success)
